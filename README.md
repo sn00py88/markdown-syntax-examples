@@ -1,8 +1,8 @@
+# Markdown Example
+
 This README.md file contains a comprehensive guide and examples of various Markdown syntax elements. It serves as a valuable resource for understanding and implementing Markdown formatting in documents. Whether you are a beginner or an experienced user, this repository provides detailed explanations and demonstrations of Markdown features including headings, text formatting, lists, links, images, tables, code blocks, blockquotes, inline code, task lists, math equations, footnotes, and more. Explore the examples and make your Markdown documents visually appealing and well-structured.
 
 ---
-
-# Markdown Example
 
 ## Headings
 
