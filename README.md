@@ -60,12 +60,6 @@ Both unordered and ordered lists are supported in Markdown.
 
 To create an unordered list, use a hyphen (-), plus (+), or an asterisk (*) followed by a space.
 
-```
-- Item 1
-- Item 2
-- Item 3
-```
-
 - Item 1
 - Item 2
 - Item 3
@@ -74,23 +68,17 @@ To create an unordered list, use a hyphen (-), plus (+), or an asterisk (*) foll
 
 To create an ordered list, begin each line with a number followed by a period and a space.
 
-```
-1. Item 1
-2. Item 2
-3. Item 3
-```
-
 1. Item 1
 2. Item 2
 3. Item 3
 
 ## Links
 
-Markdown allows creating links to external web pages or local files.
+Markdown allows creating links to external web pages or local files:
+
+`[Website](https://daringfireball.net/projects/markdown/)`
 
 [Website](https://daringfireball.net/projects/markdown/)
-
-To create a link, use the square bracket syntax `[link text](URL)`.
 
 ## Images
 
@@ -141,7 +129,6 @@ greet()
 
 To insert a horizontal rule, use three or more hyphens, asterisks, or underscores.
 
-`---`
 ---
 
 ## Inline Code
