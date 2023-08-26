@@ -49,7 +49,7 @@ Markdown allows creating links to external web pages or local files.
 
 [Website](https://daringfireball.net/projects/markdown/)
 
-To create a link, use the square bracket syntax [link text](URL).
+To create a link, use the square bracket syntax `[link text](URL)`.
 
 ## Images
 
