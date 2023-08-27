@@ -44,10 +44,6 @@ Text can be formatted using different styles:
 
 - **Bold Text**: Surround text with double asterisks or underscores.
 
-`__Underline Text__`
-
-- __Underline Text__: Surround text with double underscores.
-
 `~~Strikethrough Text~~`
 
 - ~~Strikethrough Text~~: Surround text with double tildes.
