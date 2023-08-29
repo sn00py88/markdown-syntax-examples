@@ -24,6 +24,8 @@ Markdown supports different levels of headings, from heading 1 to heading 6. Hea
 ##### Heading 5
 ###### Heading 6
 
+---
+
 ## Text Formatting
 
 Text can be formatted using different styles:
@@ -39,6 +41,8 @@ Text can be formatted using different styles:
 `~~Strikethrough Text~~`
 
 - ~~Strikethrough Text~~: Surround text with double tildes.
+
+---
 
 ## Lists
 
@@ -60,6 +64,8 @@ To create an ordered list, begin each line with a number followed by a period an
 2. Item 2
 3. Item 3
 
+---
+
 ## Links
 
 Markdown allows creating links to external web pages or local files:
@@ -68,6 +74,8 @@ Markdown allows creating links to external web pages or local files:
 
 [Website](https://daringfireball.net/projects/markdown/)
 
+---
+
 ## Images
 
 Images can be included in Markdown using the following syntax:
@@ -75,6 +83,8 @@ Images can be included in Markdown using the following syntax:
 `![Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)`
 
 ![Markdown Logo](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
+
+---
 
 ## Tables
 
@@ -94,6 +104,8 @@ Markdown supports creating tables to present tabular data. The syntax for creati
 | Alice  | 32  | Designer   |
 | Emily  | 28  | Writer     |
 
+---
+
 ## Blockquotes
 
 Blockquotes are used to highlight quotes or excerpts from a source. To create a blockquote, prepend the text with the greater than (>) symbol.
@@ -101,6 +113,8 @@ Blockquotes are used to highlight quotes or excerpts from a source. To create a 
 `> This is a blockquote. It is used to highlight a quote or excerpt from a source.`
 
 > This is a blockquote. It is used to highlight a quote or excerpt from a source.
+
+---
 
 ## Code Blocks
 
@@ -112,6 +126,8 @@ def greet():
 
 greet()
 ```
+
+---
 
 ## Horizontal Rules
 
@@ -129,6 +145,8 @@ You can highlight inline code using backticks like:
 
 `var x = 10;`
 
+---
+
 ## Task Lists
 
 Task lists represent tasks or to-do items with checkboxes. A checkbox can be checked or unchecked depending on the status of the task.
@@ -143,6 +161,8 @@ Task lists represent tasks or to-do items with checkboxes. A checkbox can be che
 - [ ] Task 2
 - [ ] Task 3
 
+---
+
 ## Math Equations
 
 Markdown supports writing math equations using LaTeX syntax. For example, the Pythagorean theorem can be written as:
@@ -150,6 +170,8 @@ Markdown supports writing math equations using LaTeX syntax. For example, the Py
 `$$a^2 + b^2 = c^2$$`
 
 $$a^2 + b^2 = c^2$$
+
+---
 
 ## Footnotes
 
